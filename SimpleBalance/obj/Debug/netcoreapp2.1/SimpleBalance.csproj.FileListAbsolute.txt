@@ -1,0 +1,86 @@
+C:\Users\Vlad\Desktop\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.deps.json
+C:\Users\Vlad\Desktop\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.runtimeconfig.json
+C:\Users\Vlad\Desktop\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.runtimeconfig.dev.json
+C:\Users\Vlad\Desktop\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.dll
+C:\Users\Vlad\Desktop\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.RazorAssemblyInfo.cache
+C:\Users\Vlad\Desktop\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.RazorAssemblyInfo.cs
+C:\Users\Vlad\Desktop\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.RazorTargetAssemblyInfo.cache
+C:\Users\Vlad\Desktop\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.pdb
+C:\Users\Vlad\Desktop\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.dll
+C:\Users\Vlad\Desktop\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.pdb
+C:\Users\Vlad\Desktop\Всё по лабе 6\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\Всё по лабе 6\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\Всё по лабе 6\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\Всё по лабе 6\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\Всё по лабе 6\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.RazorAssemblyInfo.cache
+C:\Users\Vlad\Desktop\Всё по лабе 6\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.RazorAssemblyInfo.cs
+C:\Users\Vlad\Desktop\Всё по лабе 6\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.dll
+C:\Users\Vlad\Desktop\Всё по лабе 6\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.pdb
+C:\Users\Vlad\Desktop\Всё по лабе 6\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Vlad\Desktop\Всё по лабе 6\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Vlad\Desktop\Всё по лабе 6\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\Accord.dll.config
+C:\Users\Vlad\Desktop\Всё по лабе 6\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.deps.json
+C:\Users\Vlad\Desktop\Всё по лабе 6\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.runtimeconfig.json
+C:\Users\Vlad\Desktop\Всё по лабе 6\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.runtimeconfig.dev.json
+C:\Users\Vlad\Desktop\Всё по лабе 6\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.dll
+C:\Users\Vlad\Desktop\Всё по лабе 6\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.pdb
+C:\Users\Vlad\Desktop\Всё по лабе 6\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.RazorTargetAssemblyInfo.cache
+C:\Users\Vlad\Desktop\Всё по лабе 6\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.genruntimeconfig.cache
+C:\Users\Lev\Desktop\Lev\VUZ\Мочалов\мага 2 сем\Lab7\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Lev\Desktop\Lev\VUZ\Мочалов\мага 2 сем\Lab7\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Lev\Desktop\Lev\VUZ\Мочалов\мага 2 сем\Lab7\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\Accord.dll.config
+C:\Users\Lev\Desktop\Lev\VUZ\Мочалов\мага 2 сем\Lab7\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.deps.json
+C:\Users\Lev\Desktop\Lev\VUZ\Мочалов\мага 2 сем\Lab7\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.runtimeconfig.json
+C:\Users\Lev\Desktop\Lev\VUZ\Мочалов\мага 2 сем\Lab7\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.runtimeconfig.dev.json
+C:\Users\Lev\Desktop\Lev\VUZ\Мочалов\мага 2 сем\Lab7\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.dll
+C:\Users\Lev\Desktop\Lev\VUZ\Мочалов\мага 2 сем\Lab7\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.pdb
+C:\Users\Lev\Desktop\Lev\VUZ\Мочалов\мага 2 сем\Lab7\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.csprojAssemblyReference.cache
+C:\Users\Lev\Desktop\Lev\VUZ\Мочалов\мага 2 сем\Lab7\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.AssemblyInfoInputs.cache
+C:\Users\Lev\Desktop\Lev\VUZ\Мочалов\мага 2 сем\Lab7\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.AssemblyInfo.cs
+C:\Users\Lev\Desktop\Lev\VUZ\Мочалов\мага 2 сем\Lab7\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.csproj.CoreCompileInputs.cache
+C:\Users\Lev\Desktop\Lev\VUZ\Мочалов\мага 2 сем\Lab7\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.RazorAssemblyInfo.cache
+C:\Users\Lev\Desktop\Lev\VUZ\Мочалов\мага 2 сем\Lab7\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.RazorAssemblyInfo.cs
+C:\Users\Lev\Desktop\Lev\VUZ\Мочалов\мага 2 сем\Lab7\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.RazorTargetAssemblyInfo.cache
+C:\Users\Lev\Desktop\Lev\VUZ\Мочалов\мага 2 сем\Lab7\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.dll
+C:\Users\Lev\Desktop\Lev\VUZ\Мочалов\мага 2 сем\Lab7\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.pdb
+C:\Users\Lev\Desktop\Lev\VUZ\Мочалов\мага 2 сем\Lab7\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.genruntimeconfig.cache
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\appsettings.Development.json
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\appsettings.json
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\Accord.dll.config
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.deps.json
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.runtimeconfig.json
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.runtimeconfig.dev.json
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.dll
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.pdb
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.AssemblyInfoInputs.cache
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.AssemblyInfo.cs
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.csproj.CoreCompileInputs.cache
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.RazorAssemblyInfo.cache
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.RazorAssemblyInfo.cs
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.RazorTargetAssemblyInfo.cache
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.dll
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.pdb
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.genruntimeconfig.cache
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.csprojAssemblyReference.cache
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\laba7 SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\appsettings.Development.json
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\laba7 SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\appsettings.json
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\laba7 SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\Accord.dll.config
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\laba7 SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.deps.json
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\laba7 SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.runtimeconfig.json
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\laba7 SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.runtimeconfig.dev.json
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\laba7 SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.dll
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\laba7 SimpleBalance\SimpleBalance\SimpleBalance\bin\Debug\netcoreapp2.1\SimpleBalance.pdb
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\laba7 SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.csprojAssemblyReference.cache
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\laba7 SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.AssemblyInfoInputs.cache
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\laba7 SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.AssemblyInfo.cs
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\laba7 SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.csproj.CoreCompileInputs.cache
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\laba7 SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.RazorAssemblyInfo.cache
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\laba7 SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.RazorAssemblyInfo.cs
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\laba7 SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.RazorTargetAssemblyInfo.cache
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\laba7 SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.dll
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\laba7 SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.pdb
+H:\Учеба\Магистратура\1 курс\2 семестр\Лабы Технологии гибридных суперкомпьютерных вычислений\Лабы\laba7 SimpleBalance\SimpleBalance\SimpleBalance\obj\Debug\netcoreapp2.1\SimpleBalance.genruntimeconfig.cache

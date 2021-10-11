@@ -1,0 +1,87 @@
+{
+  "Flows": [
+    {
+      "destinationId": "1",
+      "id": "1",
+      "isExcluded": false,
+      "isMeasured": true,
+      "measured": 10.005,
+      "lowerBound": 10.0,
+      "upperBound": 11.0,
+      "sourceId": null,
+      "tolerance": 0.2,
+      "name": "Thread 1"
+    },
+    {
+      "destinationId": null,
+      "id": "2",
+      "isExcluded": false,
+      "isMeasured": true,
+      "measured": 3.033,
+      "lowerBound": 3.0,
+      "upperBound": 4.0,
+      "sourceId": "1",
+      "tolerance": 0.121,
+      "name": "Thread 2"
+    },
+    {
+      "destinationId": "2",
+      "id": "3",
+      "isExcluded": false,
+      "isMeasured": true,
+      "measured": 6.831,
+      "lowerBound": 6.0,
+      "upperBound": 8.0,
+      "sourceId": "1",
+      "tolerance": 0.683,
+      "name": "Thread 3"
+    },
+    {
+      "destinationId": null,
+      "id": "4",
+      "isExcluded": false,
+      "isMeasured": true,
+      "measured": 1.985,
+      "lowerBound": 1.0,
+      "upperBound": 2.0,
+      "sourceId": "2",
+      "tolerance": 0.04,
+      "name": "Thread 4"
+    },
+    {
+      "destinationId": "3",
+      "id": "5",
+      "isExcluded": false,
+      "measured": 5.093,
+      "lowerBound": 0,
+      "upperBound": 6.0,
+      "sourceId": "2",
+      "tolerance": 0.102,
+      "name": "Thread 5"
+    },
+    {
+      "destinationId": null,
+      "id": "6",
+      "isExcluded": false,
+      "isMeasured": true,
+      "measured": 4.057,
+      "lowerBound": 0.0,
+      "upperBound": 5.0,
+      "sourceId": "3",
+      "tolerance": 0.081,
+      "name": "Thread 6"
+    },
+    {
+      "destinationId": null,
+      "id": "7",
+      "isExcluded": false,
+      "isMeasured": true,
+      "measured": 0.991,
+      "lowerBound": 0.0,
+      "upperBound": 1.0,
+      "sourceId": "3",
+      "tolerance": 0.02,
+      "name": "Thread 7"
+    }
+  ]
+}
